@@ -12,7 +12,7 @@ std::unordered_map<uint64_t, rgp::Point> points = {
 //---------------------
 std::unordered_map<uint64_t, std::vector<rgp::RoadSegment>> segments = {
 	{1, {
-		{1, 2, 500, 30}, // Segment from point 1 to point 2: 500 m, speed 30 km/h
+		{1, 2, 500, 30}, 
 		{1, 3, 1000, 40},
 		{1, 4, 1500, 10},
 		{1, 5, 2000, 15},
