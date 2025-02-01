@@ -1,2 +1,2 @@
 # Algorithms
-Реализация алгоритмов на C++ 20 поиска достижимости BFS (Breadth-First Search) и нахождение короткого и быстрого путей - с использованием алгоритма A* (A-star) 
+Implementation of C++ 20 algorithms for BFS (Breadth-First Search) reachability search and finding short and fast paths using A* (A-star) algorithm 
